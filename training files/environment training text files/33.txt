@@ -1,0 +1,41 @@
+Ever looked up at the clouds and wondered where they came from?
+
+That's exactly what atmospheric researcher Lubna Dada studies at the Paul Scherrer Institute. She is part of an international project called CLOUD, wherein she and fellow atmospheric scientists study how clouds form and the role they play in the climate.
+
+A recent study from the team published in the journal Science Advances looks at the role of trees and the natural compounds they release into the atmosphere in cloud formation. The goal is to more precisely understand the state of the climate before the Industrial Revolution — and how it's changed since.
+
+Ultimately, Dada says all this data will improve scientists' climate models and help them make more accurate predictions about – and preparations for – the future.
+
+Clouds are not only important for the weather — they also help shape the climate. Some clouds act as a layer of protection between incoming solar radiation and Earth, cooling the atmosphere. Other clouds do the opposite: They act like a blanket and trap heat.
+
+These distinctions mean it's important for scientists to know how and which types of clouds are created if they want to predict how the climate will change in the coming decades.
+
+But many current climate models don't account for either the warming or cooling effects of clouds, or the role aerosols play in their formation.
+
+"This is the biggest uncertainty in climate science at the moment," Dada says.
+
+The science is clear though: When plants emit gases that form aerosol particles (meaning particles suspended in the atmosphere), they help form cloud seeds. These particles can come from human pollution, or from natural sources like sea spray and dust.
+
+"Just think about the process of water condensing on your window when you cook," Dada says. "These aerosols are acting just like your window. So they form and then they act like a surface, which can take in more gases to grow to form this cloud."
+
+In order to incorporate clouds into climate models today and predict future changes to the climate, Dada says we first need to understand how clouds behaved before the Industrial Revolution.
+
+"We don't know how much humans contributed to the change of the background cloud conditions," Dada says. "We need to know what the background was ... so that we can form this baseline where we can add this contribution of anthropogenic emissions."
+
+Once scientists know how much that manmade pollution has contributed to cloud cover, Dada says scientists will be better equipped to predict the effects of clouds on climate in the future.
+
+Dada and the wider team of CLOUD researchers are trying to fill in some of these past and present gaps using a steel, cylindrical chamber that roughly recreates the atmosphere.
+
+To do that, the team covers the box with tape that looks like aluminum foil. It has lights that simulate different layers of the atmosphere, and the researchers can change the humidity and temperature levels to mimic a given geographic location they want to study.
+
+Then, Dada and her team can inject specific vapors into the chamber to study their effects on the mock atmosphere.
+
+Dada says that previous research has looked at the effects of two kinds of organic emissions released by plants: monoterpenes and isoprene.
+
+But another kind of compound, sesquiterpenes, has largely been ignored.
+
+In a recent study from the CLOUD project, scientists tested the effects of sesquiterpenes on cloud formation. Dada and her team injected all three compounds — monoterpenes, isoprene and sesquiterpenes — into the CLOUD chamber to see how many new particles formed. They found that sesquiterpenes formed ten times more particles than the other two substances at the same concentrations.
+
+Dada says this finding will help scientists understand the role natural emissions played in the preindustrial climate — and how much humans have altered that baseline.
+
+These compounds are released when the plants experience stress, so Dada thinks they will become more important to factor into climate predictions as vegetation is exposed to more extreme weather conditions. By factoring in these aerosols, scientists will make more accurate predictions about the future of the climate.
